@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chap-01-JSP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-01-JSP/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-02-transacation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-03-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-04-springmvc-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-05-RESTFUL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-06-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-07-dubbo/chap-07-testDubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-07-dubbo/dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-08-AllWithin/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap-08-AllWithin/provider/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap-01-JSP/chap-01-JSP.iml" filepath="$PROJECT_DIR$/chap-01-JSP/chap-01-JSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-02-transacation/chap-02-transacation.iml" filepath="$PROJECT_DIR$/chap-02-transacation/chap-02-transacation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-03-mybatis/chap-03-mybatis.iml" filepath="$PROJECT_DIR$/chap-03-mybatis/chap-03-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-04-springmvc-annotation/chap-04-springmvc-annotation.iml" filepath="$PROJECT_DIR$/chap-04-springmvc-annotation/chap-04-springmvc-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-05-RESTFUL/chap-05-RESTFUL.iml" filepath="$PROJECT_DIR$/chap-05-RESTFUL/chap-05-RESTFUL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-06-redis/chap-06-redis.iml" filepath="$PROJECT_DIR$/chap-06-redis/chap-06-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-07-dubbo/chap-07-Dubbo.iml" filepath="$PROJECT_DIR$/chap-07-dubbo/chap-07-Dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-07-testDubbo/chap-07-testDubbo.iml" filepath="$PROJECT_DIR$/chap-07-testDubbo/chap-07-testDubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-08-AllWithin/chap-08-AllWithin.iml" filepath="$PROJECT_DIR$/chap-08-AllWithin/chap-08-AllWithin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-08-AllWithin/consumer/consumer.iml" filepath="$PROJECT_DIR$/chap-08-AllWithin/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-07-dubbo/dubbo-interface/dubbo-interface.iml" filepath="$PROJECT_DIR$/chap-07-dubbo/dubbo-interface/dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-07-dubbo/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/chap-07-dubbo/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-08-AllWithin/interface/interface.iml" filepath="$PROJECT_DIR$/chap-08-AllWithin/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap-08-AllWithin/provider/provider.iml" filepath="$PROJECT_DIR$/chap-08-AllWithin/provider/provider.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chap-01-HelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-01-JSP/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-02-trascation/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-03-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-02-transacation/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-04-springmvc-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-05-RESTFUL/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-06-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-07-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-07-dubbo/dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-07-dubbo/dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-07-dubbo/dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-07-testDubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-08-AllWithin/interface/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-08-AllWithin/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/chap-08-AllWithin/consumer/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/chap-07-dubbo/dubbo-consumer/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="adopt-openjdk-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

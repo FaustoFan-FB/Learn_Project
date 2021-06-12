@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chap-04-springmvc-annotation" />
+        <module name="chap-02-transacation" />
+        <module name="chap-07-dubbo" />
+        <module name="interface" />
+        <module name="dubbo-interface" />
+        <module name="chap-07-testDubbo" />
+        <module name="chap-01-JSP" />
+        <module name="provider" />
+        <module name="dubbo-provider" />
+        <module name="chap-03-mybatis" />
+        <module name="chap-05-RESTFUL" />
+        <module name="chap-06-redis" />
+        <module name="consumer" />
+      </profile>
+      <profile name="Annotation profile for dubbo-consumer" enabled="true">
+        <sourceOutputDir name="dubbo-consumer/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="dubbo-consumer/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chap-07-Dubbo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chap-01-JSP" target="1.8" />
+      <module name="chap-02-transacation" target="11" />
+      <module name="chap-02-trascation" target="11" />
+      <module name="chap-03-mybatis" target="1.8" />
+      <module name="chap-04-springmvc-annotation" target="11" />
+      <module name="chap-05-RESTFUL" target="11" />
+      <module name="chap-06-redis" target="11" />
+      <module name="chap-07-Dubbo" target="11" />
+      <module name="chap-07-dubbo" target="11" />
+      <module name="chap-07-dubboConsumer" target="11" />
+      <module name="chap-07-testDubbo" target="11" />
+      <module name="consumer" target="11" />
+      <module name="dubbo-consumer" target="11" />
+      <module name="dubbo-interface" target="8" />
+      <module name="dubbo-provider" target="11" />
+      <module name="interface" target="11" />
+      <module name="provider" target="11" />
+      <module name="springboot-Dubbo" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chap-01-JSP" options="-parameters" />
+      <module name="chap-02-transacation" options="-parameters" />
+      <module name="chap-02-trascation" options="-parameters" />
+      <module name="chap-03-mybatis" options="-parameters" />
+      <module name="chap-04-springmvc-annotation" options="-parameters" />
+      <module name="chap-05-RESTFUL" options="-parameters" />
+      <module name="chap-06-redis" options="-parameters" />
+      <module name="chap-07-Dubbo" options="-parameters" />
+      <module name="chap-07-dubbo" options="-parameters" />
+      <module name="chap-07-dubboConsumer" options="-parameters" />
+      <module name="chap-07-testDubbo" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="dubbo-consumer" options="-parameters" />
+      <module name="dubbo-provider" options="-parameters" />
+      <module name="provider" options="-parameters" />
+    </option>
+  </component>
+</project>
