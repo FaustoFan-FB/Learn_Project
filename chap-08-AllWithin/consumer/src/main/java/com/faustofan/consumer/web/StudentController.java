@@ -5,8 +5,10 @@ import com.faustofan.interfaceDubbo.service.StudentService;
 import org.apache.dubbo.config.annotation.DubboReference;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * @author: fausto
@@ -23,5 +25,10 @@ public class StudentController {
 		Student student = studentService.queryStudent(id);
 		model.addAttribute("student" , student);
 		return "studentDetail";
+	}
+	
+	@GetMapping(value = "/student/count")
+	public @ResponseBody Object studentsCount(){
+		return studentService.queryStudentsCount();
 	}
 }

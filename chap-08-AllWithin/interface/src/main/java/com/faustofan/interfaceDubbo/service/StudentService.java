@@ -10,5 +10,5 @@ import com.faustofan.interfaceDubbo.model.Student;
  */
 public interface StudentService {
 	Student queryStudent(Integer id);
-	
+	Integer queryStudentsCount();
 }

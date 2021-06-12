@@ -24,8 +24,8 @@ public class StudentController {
 		return "defeat";
 	}
 	
-	@RequestMapping(value = "/get")
-	public Object getRedis(String key){
+	@RequestMapping(value = "/get/{key}")
+	public Object getRedis(@PathVariable("key") String key){
 		
 		return redisService.get(key);
 	}
